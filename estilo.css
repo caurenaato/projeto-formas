@@ -23,6 +23,10 @@
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     border-bottom: 100px solid green;
-    )
-   
-   
+    }
+    .retangulo{
+        width: 150px;
+        height: 100px;
+        background-color: pink;
+        }
+    
