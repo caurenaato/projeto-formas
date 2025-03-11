@@ -24,3 +24,9 @@
     border-right: 50px solid transparent;
     border-bottom: 100px solid green;
     )
+   
+    .quadrado {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        }
